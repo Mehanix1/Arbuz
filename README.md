@@ -1,1 +1,1 @@
-# GitFLow
+# GitFlow
